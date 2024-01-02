@@ -1,0 +1,17 @@
+{
+    "name": "luizg/api-rest-php-my-sql",
+    "autoload": {
+        "psr-4": {
+            "Luizg\\ApiRestPhpMySql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luyz-gusta",
+            "email": "luizgustavo.sp2020@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "3.*"
+    }
+}
